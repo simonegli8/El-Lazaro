@@ -1,1 +1,1 @@
-To edit the Magazine source files, we use the Open Source Desktop Publishing Software [Scribus](https://www.scribus.net), that you can download for free on their website. You might also use an image editing Software like Paint.NET or GIMP.
+To edit the Magazine source files, we use the Open Source Desktop Publishing Software [Scribus](https://www.scribus.net), that you can download for free on their website. You might also use an image editing Software like Paint.NET, GIMP or Inkscape.
