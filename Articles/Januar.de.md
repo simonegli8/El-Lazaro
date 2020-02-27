@@ -20,6 +20,8 @@
     }
 </style>
 
+
+
 ![Cover](img/cover.es.svg "Lázaro Cover")
 
 ## Lázaro Strassenmagazin
