@@ -152,3 +152,6 @@ Und so hat Anjelina dann auch bald zu mir Gesagt: “Du musst heute mit zur Kirc
 Es kam noch eine andere Obdachlose Frau, dazu, und ich fragte sie, ob sie auch ein wenig Suppe 
 
 wolle. Sie setzte sich zu uns, und als ich nach ihrem Namen fragte, sagte sie: “Martha”.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE3Mjg1MDQzN119
+-->
